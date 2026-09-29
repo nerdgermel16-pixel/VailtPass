@@ -1,0 +1,6 @@
+{
+  "name": "VaultPass",
+  "description": "Secure 100% Offline Password Generator and Encrypted Local Vault with Biometric Protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
